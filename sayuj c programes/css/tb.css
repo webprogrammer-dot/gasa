@@ -1,0 +1,22 @@
+tr:nth-child(odd){
+	background-color:#f3ae0e;
+	background-image: linear-gradient(blue,white); 
+}
+tr:nth-child(even){
+	background-color: #f0aed3;
+}
+table{
+	
+	border:20px solid tomato;
+	padding:5px;
+	height:50%;
+	width:70%;
+	align-content: center;
+    border-radius: 25px;
+}
+span{
+	visibility: hidden;
+}
+td:active span{
+	visibility: visible;
+}

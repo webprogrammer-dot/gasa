@@ -1,0 +1,39 @@
+header
+{
+	text-align: center;
+	background-color: #3bef00;
+	font-variant: small-caps;
+	font-size: 30px;
+	margin:30px;
+}
+ol
+{
+	color:#ce0fb3;
+	background-color: #ffffff;
+		margin: 3px;
+	display: inline-block;
+	width:30%;
+    list-style-type: armenian;
+    font-size: 25px;
+}
+a{
+	background-color: #e0cb3f;
+	color:#fff700;
+	text-decoration: unset;
+	width: 30%;
+	display:block;
+	margin:3px;
+	font-size: 25px;
+
+}
+a:link{
+	color: #fff700;
+	background-color: #e0cb3f;
+}
+a:hover{
+	color:#fff000;
+	background-color: #b3b3b3;
+}
+a:visited{
+	color:#ae0f00;
+}

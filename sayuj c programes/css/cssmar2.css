@@ -1,0 +1,45 @@
+h1
+{
+	background:#ffff;
+	float:right;
+
+}
+header{
+	text-align: center;
+	color:#fa00ac;
+	background-color: #03f4ef;
+	margin:5%;
+
+}
+.sa{
+	display:inline-block;
+	width:45%;
+	float:left;
+	margin-right:2%;
+	background-color: #03f4ef;
+	border-radius: 5px;
+	-gradient:(#03f4ef 0%,#d2e4e8 100%);
+}
+h2
+{
+	font-variant: small-caps;
+}
+p.sai
+{
+	background-color:#fff700;
+	font-style: italic;
+}
+footer
+{   margin-top: 2%;
+	clear: both;
+	background-color: #03f4ef;
+}
+body{
+	border:2% ;
+    border-color: #b3ff0a;
+    background-color: #b3b3b3;
+    gradient:(#b3ff0a 0%,#d2e4e8 100%);
+}   
+#sasa{
+	clear:both;
+}
